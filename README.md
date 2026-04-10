@@ -27,7 +27,7 @@
 ---
 
 ## 🛠️ LANGAGES  
-![Languages](https://skillicons.dev/icons?i=python,js,ts,c,cpp,rust,java,html,css,lua)
+![Languages](https://skillicons.dev/icons?i=python,js,ts,c,cpp,rust,java,html,css,lua,mysql,mongodb)
 
 ---
 
