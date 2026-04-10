@@ -1,11 +1,67 @@
 <div align="center">
 
-# 🌙 𝕷𝖊 𝕯𝖔𝖗𝖒𝖊𝖚𝖗 𝖉𝖚 𝖁𝖆𝖑
+# 🌙 𝕷𝖊 𝕯𝖔𝖗𝖒𝖊𝖚𝖗 𝖉𝖚 𝖁𝖆𝖑  
+### *Là où le silence devient un langage.*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Je+ne+suis+pas+endormi...;J'attends.;Le+silence+pr%C3%A9c%C3%A8de+toujours+la+chute.;Bienvenue+dans+le+Val." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A7BFF&center=true&vCenter=true&width=650&lines=Je+ne+suis+pas+endormi...;Je+veille.;Le+Val+n'oublie+jamais.;Bienvenue+dans+mon+ombre." />
+
+---
+
+### 🔗 Mes repaires
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tsukuyomi-089)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/grar48SG)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://echoes-of-avalone.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+
+---
+
+## 🌫️ PRÉSENCE  
+> *Je ne dors pas. Je calcule.*
+
+- 🌑 **Développeur nocturne**  
+- ⚙️ **Technicien systèmes & Linux**  
+- 🧩 **Créateur de bots & outils modulaires**  
+- 🔧 **Diagnostic & optimisation**  
+- 🎨 **Identité visuelle & branding minimaliste**
+
+---
+
+## 🛠️ LANGAGES  
+![Languages](https://skillicons.dev/icons?i=python,js,ts,c,cpp,rust,java,html,css,lua)
+
+---
+
+## ⚙️ TECHNOLOGIES & OUTILS  
+![Tools](https://skillicons.dev/icons?i=linux,vscode,react,vite,github)
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
+---
+
+## ⚡ ACTIVITÉ
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tsukuyomi-089&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukuyomi-089&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukuyomi-089&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌫️ PRÉSENCE
+## 🧩 ARCHITECTURE MENTALE  
+```mermaid
+graph TD;
+    A[Silence] --> B[Analyse];
+    B --> C[Conception];
+    C --> D[Optimisation];
+    D --> E[Automatisation];
+    E --> F[Stabilité];
+    F --> A;
