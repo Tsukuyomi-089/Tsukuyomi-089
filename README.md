@@ -7,7 +7,7 @@
 
 ---
 
-### 🔗 Mes repaires
+### 🔗 Mes repères
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tsukuyomi-089)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/grar48SG)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://echoes-of-avalone.com)
@@ -16,7 +16,7 @@
 ---
 
 ## 🌫️ PRÉSENCE  
-> *Je ne dors pas. Je calcule.*
+> *Je ne dors pas, je calcule.*
 
 - 🌑 **Développeur nocturne**  
 - ⚙️ **Technicien systèmes & Linux**  
