@@ -9,6 +9,7 @@
 
 ### 🔗 Mes repères
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tsukuyomi-089)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tsukuyomi_089)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/grar48SG)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://tsukuyomi-089.fr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
@@ -27,14 +28,12 @@
 ---
 
 ## 🛠️ LANGAGES  
-![Languages](https://skillicons.dev/icons?i=python,js,ts,c,cpp,rust,java,html,css,lua,mysql,mongodb)
+![Languages](https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,cs,go,rust,java,html,css,lua,mysql,mongodb)
 
 ---
 
 ## ⚙️ TECHNOLOGIES & OUTILS  
 ![Tools](https://skillicons.dev/icons?i=linux,vscode,react,vite,github)
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 ---
 
